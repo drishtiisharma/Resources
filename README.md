@@ -18,5 +18,6 @@ This repo consists about the resouces to the fields i'm currently exploring or p
 
 - [Dynamic Programming](https://leetcode.com/problem-list/a6kwegtr/)
 
+_other important topics: [Topics](https://vineethchivukula.hashnode.dev/essential-coding-patterns-for-mastering-dsa)_
 
-** will keep updating it from time to time
+will keep updating it from time to time 👍
