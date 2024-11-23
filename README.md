@@ -5,7 +5,16 @@ This repo consists about the resouces to the fields i'm currently exploring or p
 [Top 100 Data Structure and Algorithms DSA Interview Questions Topic-wise](https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/)
 
 ## Front end
-[HTML Cheatsheet](https://www.geeksforgeeks.org/html-cheat-sheet/)
+- GFG:
+  
+  [HTML Cheatsheet](https://www.geeksforgeeks.org/html-cheat-sheet/)
+  
+  [CSS Cheatsheet](https://www.geeksforgeeks.org/css-cheat-sheet-a-basic-guide-to-css/)
+
+- [Interactive Cheatsheet: HTML,CSS,JS](https://html-css-js.com/)
+
+## Python Basics:
+[Python Basics: Code with Harry](https://www.codewithharry.com/tutorial/python/)
 
 ## Leetcode Practice:
 - [Arrays](https://leetcode.com/problem-list/a6kvh7a2/)
