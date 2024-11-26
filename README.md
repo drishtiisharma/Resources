@@ -16,6 +16,9 @@ This repo consists about the resouces to the fields i'm currently exploring or p
 ## Python Basics:
 [Python Basics: Code with Harry](https://www.codewithharry.com/tutorial/python/)
 
+## Java-Basic to advanced practice problems:
+[Java Practice Problems](https://www.javatpoint.com/java-practice-programs)
+
 ## Leetcode Practice:
 - [Arrays](https://leetcode.com/problem-list/a6kvh7a2/)
 
