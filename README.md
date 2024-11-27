@@ -4,6 +4,8 @@ This repo consists about the resouces to the fields i'm currently exploring or p
 ## For Preparation:
 [Top 100 Data Structure and Algorithms DSA Interview Questions Topic-wise](https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/)
 
+## Java Roadmap:
+[Java Roadmap](https://whimsical.com/java-F3wA8hstGi42DU8BZrsCUL)
 ## Front end
 - GFG:
   
