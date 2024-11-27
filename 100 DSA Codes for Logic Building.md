@@ -1,29 +1,3 @@
-
-### 🛤️ **3-Month Logic-Building & Problem-Solving Roadmap**
-
-| **Week** | **Focus Area**                         | **Daily Breakdown**                                                                                       | **Checkpoints**                                                                                                    |
-|----------|----------------------------------------|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| **Week 1** | **Foundation: Basics of Programming**  | **Day 1-2:** Learn variables, data types, loops (for, while). <br> **Day 3-4:** Conditionals, functions. <br> **Day 5-6:** Arrays & Strings basics. <br> **Day 7:** Solve 10 simple pattern-building questions (stars, triangles). | ✅ Understand basic syntax and concepts.<br> ✅ Solve **10 pattern-building problems**.                            |
-| **Week 2** | **Introduction to Problem Solving**   | **Day 1-2:** Learn dry-run and pseudocode.<br> **Day 3-5:** Solve **10 simple DSA problems** (easy level, e.g., reverse array, Fibonacci). <br> **Day 6-7:** Build **Mini Project 1: Calculator App**. | ✅ Solve 10 DSA problems.<br> ✅ Complete **Mini Project 1: Calculator App**.                                      |
-| **Week 3** | **Level Up: Arrays & Logic Thinking** | **Day 1-2:** Advanced array techniques (sliding window, prefix sum).<br> **Day 3-6:** Solve **15 array-based problems** (medium level). <br> **Day 7:** Build **Mini Project 2: Tic-Tac-Toe Game**. | ✅ Solve 25 total DSA problems (15 new).<br> ✅ Complete **Mini Project 2: Tic-Tac-Toe Game**.                     |
-| **Week 4** | **Strings & Problem-Solving Practice**| **Day 1-2:** String manipulation (reversal, palindromes, substrings).<br> **Day 3-5:** Solve **15 string-based problems** (easy-medium). <br> **Day 6-7:** Build **Mini Project 3: Text Manipulation Tool (e.g., Uppercase, Reverse)**. | ✅ Solve 40 total DSA problems (15 new).<br> ✅ Complete **Mini Project 3: Text Tool**.                            |
-| **Week 5** | **Recursion & Logic Expansion**       | **Day 1-2:** Learn recursion basics (factorial, Fibonacci).<br> **Day 3-5:** Solve **10 recursion-based problems** (medium level). <br> **Day 6-7:** Build **Mini Project 4: Recursive Maze Solver**. | ✅ Solve 50 total DSA problems (10 new).<br> ✅ Complete **Mini Project 4: Recursive Maze Solver**.               |
-| **Week 6** | **Data Structures: Stacks & Queues**  | **Day 1-2:** Learn stacks and queues basics. <br> **Day 3-6:** Solve **15 problems** (balanced parentheses, queue reversal). <br> **Day 7:** Work on **Mini Project 5: Browser History Tracker (using stack)**. | ✅ Solve 65 total DSA problems (15 new).<br> ✅ Complete **Mini Project 5: Browser History Tracker**.             |
-| **Week 7** | **Dynamic Programming Introduction**  | **Day 1-3:** Learn DP basics (knapsack, Fibonacci with memoization).<br> **Day 4-6:** Solve **10 DP problems** (easy-medium).<br> **Day 7:** Revise all past concepts/projects. | ✅ Solve 75 total DSA problems (10 new).<br> ✅ Master basic DP problems.                                         |
-| **Week 8** | **Advanced Problem Solving (Graph)**  | **Day 1-2:** Learn graph representation (adjacency list/matrix).<br> **Day 3-5:** Solve **10 graph-based problems** (BFS/DFS). <br> **Day 6-7:** Build a **Mini Project: Path Finder Visualizer**. | ✅ Solve 85 total DSA problems (10 new).<br> ✅ Complete Graph-Based Mini Project.                                |
-| **Week 9** | **Advanced DSA (Sorting/Greedy)**     | **Day 1-2:** Learn sorting algorithms (merge sort, quicksort).<br> **Day 3-5:** Solve **15 problems** on sorting/greedy (e.g., activity selection, job scheduling). | ✅ Solve 100 DSA problems (15 new).                                                                              |
-| **Week 10-11** | **Integration: Complex Projects**| **Day 1-7:** Brainstorm and build **Project 1: Expense Tracker with Charts**.<br> **Next 7 days:** Build **Project 2: Multiplayer Rock-Paper-Scissors Game** (WebSockets, if possible). | ✅ Integrate past knowledge into real-world projects.<br> ✅ Master real-world application-building.               |
-| **Week 12** | **Final Touches and Mock Practice**  | **Day 1-3:** Revise all concepts learned.<br> **Day 4-6:** Solve 10 problems from past mistakes or blindspots.<br> **Day 7:** Build a final project of your choice integrating at least one complex DSA concept. | ✅ Complete final project.<br> ✅ Feel confident in solving beginner-intermediate DSA problems.                   |
-
-
-### 💡 **How to Think of Logic**
-1. **Break Down the Problem**: Read the question twice. Identify inputs, outputs, and constraints.
-2. **Start with Examples**: Create test cases manually and simulate the solution step-by-step.
-3. **Write Pseudocode**: Draft a high-level plan before coding.
-4. **Ask “Why?” at Every Step**: Understand each operation; don’t memorize solutions.
-5. **Visualize**: Use diagrams or dry-run tables to debug.
-6. **Optimize Gradually**: Start with brute force; iterate to optimize for efficiency.
-
 ### 📚 **100 DSA Questions for Logic Building**
 
 | **Category**               | **Question Name**                                                                 | **Platform**        | **Link**                                                                                 |
