@@ -75,8 +75,5 @@
 | **Node.js**           | [Node.js Crash Course - Traversy Media](https://youtu.be/ohIAiuHMKMI?si=H5iHT-EDtoSG7BAp)                                   |
 | **GraphQL**           | [GraphQL Tutorial - freeCodeCamp](https://youtu.be/ed8SzALpx1Q)                                        |
 | **Web Accessibility** | [Web Accessibility - freeCodeCamp](https://youtu.be/WElAzzkVWsk)                                       |
-| **Agile Development** | [Agile Development Basics - Edureka](https://youtu.be/Z9QbYZh1YXY)                                     |
-                               |
+| **Agile Development** | [Agile Development Basics - Edureka](https://youtu.be/Z9QbYZh1YXY)                                     
 
-
-# Project Playlist: https://www.youtube.com/watch?v=RbxHZwFtRT4&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR
