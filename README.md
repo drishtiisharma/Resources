@@ -37,3 +37,6 @@ This repo consists about the resouces to the fields i'm currently exploring or p
 _other important topics: [Topics](https://vineethchivukula.hashnode.dev/essential-coding-patterns-for-mastering-dsa)_
 
 will keep updating it from time to time 👍
+
+
+https://drive.google.com/file/d/1tXiOMerxLnBWOawAHBkLHZfolZ_qGhvr/view?usp=drive_link
