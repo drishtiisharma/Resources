@@ -36,6 +36,8 @@ This repo consists about the resouces to the fields i'm currently exploring or p
 
 _other important topics: [Topics](https://vineethchivukula.hashnode.dev/essential-coding-patterns-for-mastering-dsa)_
 
+### [Books(for all general languages)](https://flaviocopes.com/access/)
+
 will keep updating it from time to time 👍
 
 
